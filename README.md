@@ -19,7 +19,7 @@ BITR, is een chat systeem gebaseerd op twitter om te kunnen comuniceren met leer
 > Gekregen om weer in het coderen te komen.
 
 
-## Gebruikte Progammeertalen
+## Talen
 
 Gebruikte Progammeertalen
 - HTML - Voor de Front-End.
