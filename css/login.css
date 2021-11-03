@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Roboto Mono', monospace;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    cursor: default;
+    background-image: url("../images/original.gif");
+}
+
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
+
+#box1 {
+    border-radius: 0px;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    padding: 15px 12px;
+    outline: none;
+    width: 670px;
+    height: 753px;
+    position: absolute;
+    left: 56.4%;
+    top: 0%;
+    resize: none;
+  }
+
+  #h1 {
+      font: italic;
+      font-weight: bold;
+      color: white;
+      position: absolute;
+      top: 12%;
+      left: 58%;
+  }
+
+  #h2 {
+    font: italic;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 58%;
+    font-size: 27px;
+}
+
+#log {
+    width: auto;
+    height: 225px;
+    position: absolute;
+    left: 52%;
+    bottom: 70%;
+}
+
+#log:hover {
+    transform: scale(1.1);
+    transition: 330ms ease-in-out;
+}
+
+#usern {
+    border: 1px solid rgb(44, 44, 44);
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    box-sizing: border-box;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    padding: 15px 12px;
+    outline: none;
+    width: 21%;
+    height:8%;
+    position: absolute;
+    left: 58%;
+    top: 40%;
+    resize: none;
+  }
+
+  #label1 {
+      color: white;
+      position: absolute;
+      font-weight: bold;
+      font-style: italic;
+      top: 35%;
+      left: 58.2%;
+  }
+
+  #passw {
+    border: 1px solid rgb(44, 44, 44);
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    box-sizing: border-box;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    padding: 15px 12px;
+    outline: none;
+    width: 21%;
+    height:8%;
+    position: absolute;
+    left: 58%;
+    top: 60%;
+    resize: none;
+  }
+
+  #label2 {
+      color: white;
+      position: absolute;
+      font-weight: bold;
+      font-style: italic;
+      top: 55%;
+      left: 58.2%;
+  }
+
+    .submit {
+    color: white;
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    font-size: 20px;
+    bottom: 27.3%;
+    top: 72%;
+    left: 57.9%;
+    font-weight: bold;
+    border: white;
+    background-color: #1D9BF0;
+    border-radius: 30px;
+    width: 200px;
+    height: 45px;
+    font-size: 17px;
+    font-style: italic;
+    }
+
+    .submit:hover {
+        transform: scale(1.05);
+        transition: 330ms ease-in-out;
+        cursor: pointer;
+        background-color: #1b86ce;
+    }
+
+    #registreer {
+        font: italic;
+        font-weight: bold;
+        color: white;
+        position: absolute;
+        top: 94%;
+        left: 59%;
+        font-size: 11px;
+    }
+
+    #href {
+        text-decoration: none;
+        color: #1D9BF0;
+    }
+
+
+    #verkeerd {
+        color: white;
+        font-weight: bold;
+        font-style: italic;
+        position: absolute;
+        top: 67.5%;
+        left: 58.3%;
+        font-size: 10px;
+    }
